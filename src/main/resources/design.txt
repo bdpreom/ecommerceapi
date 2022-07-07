@@ -1,0 +1,2 @@
+user(id,f_name,l_name,email,password)
+authentication_token(id,token,user_id,created_at)
